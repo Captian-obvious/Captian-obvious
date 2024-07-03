@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Captian-obvious
 - 👀 I’m interested in Electronics and coding.
-- 🌱 I’m currently learning fast fourior transform, and hope to create luaU compatable fft for many purposes. Mainly so those pesky "devs" stop asking me to add fft module.
+- 🌱 I’m currently learning how to create a linux distro (PyOS Linux) that i can call my own!
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
