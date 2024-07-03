@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Captian-obvious
 - 👀 I’m interested in Electronics and coding.
-- 🌱 I’m currently learning how to create a linux distro that I can call my own! (the irm example is PyOS Linux)
+- 🌱 I’m currently learning how to create a linux distro that I can call my own! (the firm example is PyOS Linux)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
