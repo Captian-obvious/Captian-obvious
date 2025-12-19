@@ -1,8 +1,8 @@
 ITSA PROGRAMMIN TIME!
 - 👋 Hi, I’m @Captian-obvious
-- 👀 I’m interested in Electronics and coding.
-- 🌱 I’m currently learning how to create a linux distro that I can call my own! (the firm example is PyOS Linux)
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Creating programs and webservices for fun, as well as Electronics.
+- 🌱 I’m currently learning Rust!
+- 💞️ I’m looking to collaborate on Any project where someone who knows most of their way around python is needed.
 - 📫 How to reach me ...
 
 <!---
