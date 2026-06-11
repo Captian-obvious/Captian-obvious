@@ -10,7 +10,7 @@ I build:
 - Random programs & Experimental Projects
 - The occasional study-related web app or program.
 
-I'm currently studying for a double degree on **Computer Science & Programming** and **Electronics Engineering.**<br/>
+I'm currently studying for a double university degree <br/>
 *and I'm not nearly as active as I once was as a result* <br/>
 Don't expect me to be available 24/7, but I am available most of the time.<br/>
 
