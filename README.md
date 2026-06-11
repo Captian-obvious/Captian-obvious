@@ -6,7 +6,7 @@ I am always looking to learn new skills and this account has a lot of random stu
 
 I build:
 - Full Stack Web Applications
-- Roblox Plugins (& Games, but thats not usually uploaded here)
+- Roblox Plugins & Development Tools (+ Games, but thats not usually uploaded here)
 - Random programs & Experimental Projects
 - The occasional study-related web app or program.
 
