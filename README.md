@@ -10,7 +10,7 @@ Don't expect me to be available 24/7 but I am available most of the time.<br/>
 
 I like coding up random programs for fun and plan to continue that as I move towards my degree<br/>
 as I always say <br/>
-[**ITZA PROGRAMMIN' TIME!**](https://www.superduperdev2.com)
+**ITZA PROGRAMMIN' TIME!**
 
 <!---
 Captian-obvious/Captian-obvious is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
