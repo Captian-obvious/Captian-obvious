@@ -2,7 +2,7 @@
 
 I am a Full Stack Web Developer and Programmer with around 7-8 years of *public* coding knowledge.<br/>
 I am always looking to improve on what I do and this account has a lot of random stuff I've written<br/>
-**Some of the Repos on this are NOT finished!**, I learn, break things, and improve as I go. <br/>
+**Some of the Repos here are NOT finished!**. This account is where I learn, break things, and improve as I go. <br/>
 
 I build:
 - Full Stack Web Applications
